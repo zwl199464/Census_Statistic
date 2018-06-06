@@ -5,4 +5,5 @@
 ^server\.R$
 ^development$
 ^development/*.R$
-
+^application$
+^application/*.R$
